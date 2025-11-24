@@ -185,7 +185,7 @@ These headings look attractive and are commonly used in GitHub projects.
 
 ## 📋 **3. Display Products Output**
 
-![main alt](
+![main alt](https://github.com/charaniv-1625/README.md/blob/main/sc3.png?raw=true)
 
 ---
 
