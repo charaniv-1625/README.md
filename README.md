@@ -197,21 +197,11 @@ These headings look attractive and are commonly used in GitHub projects.
 
 ## 🔚 **5. Exit Message**
 
-![main alt](
+![main alt](https://github.com/charaniv-1625/README.md/blob/main/sc5.png?raw=true)
 
 ---
 
-### 🔍 Additional Optional Sections
 
-If you want more:
-
-* **7. store_data.txt File Preview**
-* **8. Full Program Execution Demo**
-* **9. Error Handling Example**
-
----
-
-If you want, I can also insert these headings directly into your full README file layout.
 
 
 
