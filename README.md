@@ -164,13 +164,60 @@ Milk                 $30.50     10
 Bread                $25.00     20         
 ```
 
----
-
-## 🧑‍💻 **Author**
-
-**CHARANI VANKUDAVATHU**
-C Programming Course Project – Store Management
+Here are **clean, professional, GitHub-friendly side headings** you can use in your README file to add your **screenshots**.
+These headings look attractive and are commonly used in GitHub projects.
 
 ---
+
+# 📸 Screenshots
+
+## 🖥️ **1. Program Menu Screen**
+
+![main alt](
+
+---
+
+## ➕ **2. Add Product Screen**
+
+![main alt](
+
+---
+
+## 📋 **3. Display Products Output**
+
+![main alt](
+
+---
+
+## 💾 **4. Save Data Confirmation**
+
+![main alt](
+
+---
+
+## 📂 **5. Load Data on Startup**
+
+![main alt](
+
+---
+
+## 🔚 **6. Exit Message**
+
+![main alt](
+
+---
+
+### 🔍 Additional Optional Sections
+
+If you want more:
+
+* **7. store_data.txt File Preview**
+* **8. Full Program Execution Demo**
+* **9. Error Handling Example**
+
+---
+
+If you want, I can also insert these headings directly into your full README file layout.
+
 
 
