@@ -191,17 +191,11 @@ These headings look attractive and are commonly used in GitHub projects.
 
 ## 💾 **4. Save Data Confirmation**
 
-![main alt](
+![main alt](https://github.com/charaniv-1625/README.md/blob/main/sc4.png?raw=true)
 
 ---
 
-## 📂 **5. Load Data on Startup**
-
-![main alt](
-
----
-
-## 🔚 **6. Exit Message**
+## 🔚 **5. Exit Message**
 
 ![main alt](
 
