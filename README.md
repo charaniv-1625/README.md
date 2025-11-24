@@ -179,7 +179,7 @@ These headings look attractive and are commonly used in GitHub projects.
 
 ## ➕ **2. Add Product Screen**
 
-![main alt](
+![main alt](https://github.com/charaniv-1625/README.md/blob/main/sc2.png?raw=true)
 
 ---
 
