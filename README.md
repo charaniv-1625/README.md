@@ -173,7 +173,7 @@ These headings look attractive and are commonly used in GitHub projects.
 
 ## 🖥️ **1. Program Menu Screen**
 
-![main alt](
+![main alt](https://github.com/charaniv-1625/README.md/blob/main/sc1.png?raw=true)
 
 ---
 
