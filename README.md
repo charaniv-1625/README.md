@@ -30,11 +30,11 @@ The program uses **structures** to store product details and **file handling** t
 
 ---
 ## **Summary Table**
-   **Component**                  **Type	Count**         	     **Purpose**
-* Functions	User-defined               	5	            Add, display, save, load, main
-* Loops	for, while, do-while            4	            Process products + menu repetition
-* Structures                           	1             (struct Product)	1	Store product data
-* Arrays	products[100]	                 1	                 Hold product list
+   **Component**               |    **Type	Count**          |  	           **Purpose**
+* Functions	User-defined       |        	5	                 |   Add, display, save, load, main
+* Loops	for, while, do-while   |          4	                 |  Process products + menu repetition
+* Structures                   |         	1(struct Product)	 |         1	Store product data
+* Arrays	products[100]	       |          1	                 |        Hold product list
 
 ---
 
