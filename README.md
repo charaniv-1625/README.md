@@ -14,6 +14,7 @@ The program allows users to **add products, view products, and save/load data** 
 This project is a basic Store Management System developed in C language.
 It enables the user to manage a collection of products by performing essential operations such as adding new products, displaying stored products, and saving/loading data from a file.
 The program uses **structures** to store product details and **file handling** to maintain data persistence. It is designed for educational purposes, especially for students learning C programming, loops, and file operations.
+"This project is designed to manage store products by adding, viewing, saving, and loading product details using a simple C program.”
 
 ---
 
